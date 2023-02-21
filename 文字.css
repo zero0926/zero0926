@@ -1,4 +1,4 @@
-p.dynamic-text{
+h1.dynamic-text{
     position: relative; //相對於偽元素而言
 height: 50px;
     margin-left: 10px;
